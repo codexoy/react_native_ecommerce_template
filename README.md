@@ -1,3 +1,4 @@
+A React Native e-commerce template with visual search functionality built using Expo.
 
 **Features:**
 - User authentication system
